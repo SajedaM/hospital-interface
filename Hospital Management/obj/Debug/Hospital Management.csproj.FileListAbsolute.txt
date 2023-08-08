@@ -1,0 +1,23 @@
+D:\test\hospital management\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe.config
+D:\test\hospital management\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe
+D:\test\hospital management\Hospital Management\Hospital Management\bin\Debug\Hospital Management.pdb
+D:\test\hospital management\Hospital Management\Hospital Management\obj\Debug\Hospital Management.csproj.AssemblyReference.cache
+D:\test\hospital management\Hospital Management\Hospital Management\obj\Debug\Hospital Management.csproj.SuggestedBindingRedirects.cache
+D:\test\hospital management\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Form1.resources
+D:\test\hospital management\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Properties.Resources.resources
+D:\test\hospital management\Hospital Management\Hospital Management\obj\Debug\Hospital Management.csproj.GenerateResource.cache
+D:\test\hospital management\Hospital Management\Hospital Management\obj\Debug\Hospital Management.csproj.CoreCompileInputs.cache
+D:\test\hospital management\Hospital Management\Hospital Management\obj\Debug\Hospital Management.exe
+D:\test\hospital management\Hospital Management\Hospital Management\obj\Debug\Hospital Management.pdb
+D:\test\hospital management\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.main.resources
+D:\test\hospital management\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.add_doctor.resources
+D:\test\hospital management\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.manage_doctor.resources
+D:\test\hospital management\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.edit_doctor.resources
+D:\test\hospital management\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.patient.resources
+D:\test\hospital management\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe.manifest
+D:\test\hospital management\Hospital Management\Hospital Management\bin\Debug\Hospital Management.application
+D:\test\hospital management\Hospital Management\Hospital Management\obj\Debug\Hospital Management.exe.manifest
+D:\test\hospital management\Hospital Management\Hospital Management\obj\Debug\Hospital Management.application
+D:\test\hospital management\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.add_Proccess.resources
+D:\test\hospital management\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.viewproccess.resources
+D:\test\hospital management\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Currently_Open.resources
